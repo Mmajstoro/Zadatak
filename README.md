@@ -21,7 +21,7 @@ Lekcije programa Library Carpentry koje se vežu uz informacijske i knjižnične
 ###### 4.1.	Uvod u podatke
 
 Kao što Andromeda Yelton navodi u svome radu *Kodiranje za knjižničare: učenje pomoću primjera* 
->kod je knjižničarima način da preuzmu kontrolu nad praksom i da osnaže sebe i svoju organizaciju kako bi zadovoljili potrebe korisnika na fleksibilan način<
+>kod je knjižničarima način da preuzmu kontrolu nad praksom i da osnaže sebe i svoju organizaciju kako bi zadovoljili potrebe korisnika na fleksibilan način>
 S druge strane, knjižničari igraju ključnu ulogu u kultiviranju istraživanja na svjetskoj razini. U većini područja, istraživanja se oslanjaju na korištenje softvera. Upravo zbog toga, knjižničari koji su ovladali softverskim vještinama imaju dobru poziciju da nastave s kultiviranjem istraživanja na svjetskoj razini.  
 Strukturiranjem podataka, oni se mogu učiniti računalno čitljivima i time mogu pospješiti bolje pretraživanje i razmjenjivanje podataka u knjižničnoj/informacijskoj zajednici i struci.
 
