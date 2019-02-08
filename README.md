@@ -1,4 +1,4 @@
-#Zadatak
+# Zadatak
 
 ## 1.	Library Carpentry
 Library Carpentry bavi se razvojem lekcija i radionica za osobe koje rade u knjižničnom i informacijskom okruženju. Cilj Library Carpentry-a je stvoriti poveznicu za osnaživanje tog okruženja kako bi se mogli koristiti softveri i podaci u vlastitom radu, kao i zagovaranje i osposobljavanje drugih za učinkovite, djelotvorne i ponovljive prakse podataka i softvera. 
